@@ -33,11 +33,11 @@
         "settingFile": "/src/authConfig.js", 
           "replaceTokens": 
             {
-            "appId": "Enter_the_Application_Id_Here",
-            "tenantId": "Enter_the_Tenant_Info_Here",
-            "authorityEndpointHost": "Enter_the_Cloud_Instance_Id_Here",
-            "redirectUri": "Enter_the_Redirect_Uri_Here",
-            "msgraphEndpointHost": "Enter_the_Graph_Endpoint_Here"
+            "appId": "154f7243-8835-4883-af5a-441f54fabcd4",
+            "tenantId": "ce79fa55-f492-462e-9e1f-3d8667023f7d",
+            "authorityEndpointHost": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
+            "redirectUri": "https://tab-app-globant-b6oibw5xd-radhika-daxini789.vercel.app/",
+            "msgraphEndpointHost": "https://graph.microsoft.com"
           }
         }
       ]
