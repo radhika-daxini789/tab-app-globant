@@ -14,7 +14,7 @@ export const msalConfig = {
     auth: {
         clientId: "154f7243-8835-4883-af5a-441f54fabcd4",
         authority: "https://login.microsoftonline.com/common",
-        redirectUri: "https://tab-app-globant-b6oibw5xd-radhika-daxini789.vercel.app/"
+        redirectUri: "https://tab-app-globant.vercel.app/"
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
