@@ -11,7 +11,7 @@
       "x-ms-version": "2.0",
       "replyUrlsWithType": [
         {
-          "url": "https://tab-app-globant-b6oibw5xd-radhika-daxini789.vercel.app/",
+          "url": "https://tab-app-globant.vercel.app/",
           "type": "Spa"
         }
       ],
@@ -36,7 +36,7 @@
             "appId": "154f7243-8835-4883-af5a-441f54fabcd4",
             "tenantId": "ce79fa55-f492-462e-9e1f-3d8667023f7d",
             "authorityEndpointHost": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
-            "redirectUri": "https://tab-app-globant-b6oibw5xd-radhika-daxini789.vercel.app/",
+            "redirectUri": "https://tab-app-globant.vercel.app/",
             "msgraphEndpointHost": "https://graph.microsoft.com"
           }
         }
